@@ -3,7 +3,7 @@
 .Rapp.history
 
 # ignore data
-.data/
+data/
 
 # Session Data files
 .RData
